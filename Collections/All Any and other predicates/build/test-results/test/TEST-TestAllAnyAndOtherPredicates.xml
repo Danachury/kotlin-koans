@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestAllAnyAndOtherPredicates" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-08-21T16:48:24" hostname="denilson-Lenovo-ideapad-Y700-15ISK" time="0.033">
+  <properties/>
+  <testcase name="testAnyCustomerFromCity" classname="TestAllAnyAndOtherPredicates" time="0.029"/>
+  <testcase name="testAnyCustomerIsFromCity" classname="TestAllAnyAndOtherPredicates" time="0.001"/>
+  <testcase name="testCountCustomersFromCity" classname="TestAllAnyAndOtherPredicates" time="0.001"/>
+  <testcase name="testAllCustomersAreFromCity" classname="TestAllAnyAndOtherPredicates" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

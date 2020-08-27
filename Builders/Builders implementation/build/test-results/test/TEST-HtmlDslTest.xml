@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HtmlDslTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-08-21T20:04:12" hostname="denilson-Lenovo-ideapad-Y700-15ISK" time="0.023">
+  <properties/>
+  <testcase name="testSample" classname="HtmlDslTest" time="0.019"/>
+  <testcase name="testTable1" classname="HtmlDslTest" time="0.001"/>
+  <testcase name="testTable2" classname="HtmlDslTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
